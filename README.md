@@ -6,3 +6,4 @@ I’ve prepared math and reading test scores, along with other data points, for 
 
 ## Results
 - The district summary was not affected by replace Thomas High School 9th grade test scores with “Not a Number” or NaN.
+![TBrickey](https://github.com/TBrickey/stock-analysisources/Screenshot%20All%20Stocks%20(2017).png)
