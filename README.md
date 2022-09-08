@@ -21,3 +21,5 @@ I’ve prepared math and reading test scores, along with other data points, for 
 ![TBrickey](https://github.com/TBrickey/School_District_Analysis/blob/main/Resources/by%20size.png)
 
 ![TBrickey](https://github.com/TBrickey/School_District_Analysis/blob/main/Resources/by%20type.png)
+
+![TBrickey](https://github.com/TBrickey/School_District_Analysis/blob/main/Resources/spending%20by%20student.png)
