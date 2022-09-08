@@ -9,8 +9,14 @@ I’ve prepared math and reading test scores, along with other data points, for 
 
 ![TBrickey](https://github.com/TBrickey/School_District_Analysis/blob/main/Resources/district%20summary%20after%20THS%209th%20replaced%20with%20NaN.png)
 
+- The School summary improved after the 9th grade NaNs were removed from analysis
+
+![TBrickey](https://github.com/TBrickey/School_District_Analysis/blob/main/Resources/by%20school%20with%209th.png)
 
 ![TBrickey](https://github.com/TBrickey/School_District_Analysis/blob/main/Resources/by%20school.png)
+
+ - replacing the ninth graders’ math and reading scores put Thomas High School’s performance ranked in the top 5.
+
 
 ![TBrickey](https://github.com/TBrickey/School_District_Analysis/blob/main/Resources/by%20size.png)
 
