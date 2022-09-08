@@ -6,20 +6,28 @@ I’ve prepared math and reading test scores, along with other data points, for 
 
 ## Results
 - The district summary was not affected by replace Thomas High School 9th grade test scores with “Not a Number” or NaN.
+- 
 
 ![TBrickey](https://github.com/TBrickey/School_District_Analysis/blob/main/Resources/district%20summary%20after%20THS%209th%20replaced%20with%20NaN.png)
 
+
 - The School summary improved after the 9th grade NaNs were removed from analysis
+- 
 
 ![TBrickey](https://github.com/TBrickey/School_District_Analysis/blob/main/Resources/by%20school%20with%209th.png)
 
 ![TBrickey](https://github.com/TBrickey/School_District_Analysis/blob/main/Resources/by%20school.png)
 
- - replacing the ninth graders’ math and reading scores put Thomas High School’s performance ranked in the top 5.
 
+ - Replacing the ninth graders’ math and reading scores put Thomas High School’s performance ranked in the top 5.
+
+ - The following shows the affect replacing the 9th grade scores had on the analysis.
 
 ![TBrickey](https://github.com/TBrickey/School_District_Analysis/blob/main/Resources/by%20size.png)
 
 ![TBrickey](https://github.com/TBrickey/School_District_Analysis/blob/main/Resources/by%20type.png)
 
 ![TBrickey](https://github.com/TBrickey/School_District_Analysis/blob/main/Resources/spending%20by%20student.png)
+
+## Summary
+
