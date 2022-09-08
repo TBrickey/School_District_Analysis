@@ -30,4 +30,11 @@ I’ve prepared math and reading test scores, along with other data points, for 
 ![TBrickey](https://github.com/TBrickey/School_District_Analysis/blob/main/Resources/spending%20by%20student.png)
 
 ## Summary
+Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+
+![TBrickey](https://github.com/TBrickey/School_District_Analysis/blob/main/Resources/district%20summary%20after%20THS%209th%20replaced%20with%20NaN.png)
+
+![TBrickey](https://github.com/TBrickey/School_District_Analysis/blob/main/Resources/by%20school%20with%209th.png)
+
+![TBrickey](https://github.com/TBrickey/School_District_Analysis/blob/main/Resources/by%20school.png)
 
